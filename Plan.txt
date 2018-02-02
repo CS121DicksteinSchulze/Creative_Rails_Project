@@ -1,0 +1,19 @@
+This tutorial
+https://www.youtube.com/watch?v=m9bszkhp5pY
+
+User stories:
+
+As a user, I want to be able to type a message into a box with intention of sending it to the chatbot.
+  Time estimate: 5 hours
+
+As a user, I want to be able to click send so that my message will be "delivered" to the chatbot.
+  Time estimate: 1.5 hours
+
+As a developer, I want to write a chatbot that can randomly return responses so that users can feel like they are talking to someone.
+  Time estimate: 2 hours
+
+As a user, I want to be able to see the chatbot's response to my message so that I can feel emotions corresponding to the message I receive.
+  Time estimate: 1 hour
+  
+Total time to MVP: 9.5 hours
+  
