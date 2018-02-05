@@ -1,6 +1,7 @@
 This tutorial
 https://www.youtube.com/watch?v=m9bszkhp5pY
 https://www.nopio.com/blog/rails-real-time-chat-application-part-1/
+http://dreamingechoes.github.io/bot/ruby/rails/conversational-bot-ruby-on-rails/
 
 
 
