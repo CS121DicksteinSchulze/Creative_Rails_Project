@@ -6,3 +6,10 @@ class ApplicationController < ActionController::Base
     render json: { response: reaction.present? ? reaction : '¿Comorl?' }
   end
 end
+
+require 'programr'
+
+brains = Dir.glob("lib/railsbot/*")
+
+RAILSBOT = ProgramR::Facade.new
+RAILSBOT.learn(brains)
