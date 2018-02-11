@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<aiml version="1.0">
+
+<category>
+	<pattern> Hello </pattern>
+	<template> Howdy! </template>
+</category>
+<category>
+	<pattern> Hello* </pattern>
+	<template> Why hello there! </template>
+</category>
+<category>
+	<pattern> Who are you? </pattern>
+	<template> I am Railsbot. Pleased to meet you! </template>
+</category>
+<category>
+	<pattern> Fuck you </pattern>
+	<template> Fuck you too! </template>
+</category>
