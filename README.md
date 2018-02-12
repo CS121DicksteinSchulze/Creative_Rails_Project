@@ -1,24 +1,34 @@
-# README
+# Creative_Rails_Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Adam Schulze and Thomas Dickstein
 
-Things you may want to cover:
+# Project Summary
 
-* Ruby version
+A simple chatbot designed to respond to messages from users. Responses will be selected randomly from among a set list of pre-programmed responses.
 
-* System dependencies
+# Project Users
 
-* Configuration
+This bot is for anyone who has an internet connection and desires to have a useless conversation with a faceless bot on the Web.
 
-* Database creation
+# MVP
 
-* Database initialization
+* Users can type messages into a message box
 
-* How to run the test suite
+* Users can click send to feed their message to the bot
 
-* Services (job queues, cache servers, search engines, etc.)
+* The bot should be able to respond when a message is sent, appearing as a separate user
 
-* Deployment instructions
+* Users should be able to view responses to their messages in a simple GUI
 
-* ...
+# Functionality
+
+App is in development. Stay tuned for final feature lists!
+
+# Installation Steps
+
+# Key Issues
+
+# Known Bugs
+
+# References
+
