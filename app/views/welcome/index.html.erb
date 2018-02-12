@@ -1,0 +1,8 @@
+<h1>
+	Send your message to the bot!
+</h1>
+<%= form_tag("/output.html", method: "get") do %>
+  <%= label_tag(:message, "Your Message:") %>
+  <%= text_field_tag(:message) %>
+  <%= submit_tag("Send") %>
+<% end %>
