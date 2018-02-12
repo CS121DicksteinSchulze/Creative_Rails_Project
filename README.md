@@ -16,9 +16,9 @@ This bot is for anyone who has an internet connection and desires to have a usel
 
 * Users can click send to feed their message to the bot
 
-* The bot should be able to respond when a message is sent, appearing as a separate user
+* The bot should be able to respond when a message is sent
 
-* Users should be able to view responses to their messages in a simple GUI
+* Users should be able to view responses to their messages
 
 # Functionality
 
