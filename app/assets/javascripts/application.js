@@ -13,19 +13,3 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
-
-$(document).ready(function(){
-  $('#send!').on('click', function(event) {
-    $.ajax({
-      url: '/ask_railsbot',
-      type: 'json',
-      method: 'get',
-      data: { query: $('#query').val() },
-      success: function(data) {
-        $('.railsbot-response').removeClass('hide');
-        $('#railsbot-response').html(data['response']);
-        $('#query').val('');
-      }
-    });
-  });
-});
