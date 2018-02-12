@@ -37,3 +37,14 @@ App is in development. Stay tuned for final feature lists!
 
 # References
 
+“Form Helpers.” Form Helpers - Ruby on Rails Guides, guides.rubyonrails.org/form_helpers.html.
+
+“Getting Started - Creating the Blog Application.” Ruby on Rails Guides, guides.rubyonrails.org/getting_started.html#creating-the-blog-application.
+
+“How to Check Whether a String Contains a Substring in Ruby?” Stack Overflow, 24 Nov. 2011, stackoverflow.com/questions/8258517/how-to-check-whether-a-string-contains-a-substring-in-ruby.
+
+“HTML Forms.” w3schools.com, www.w3schools.com/html/html_forms.asp.
+
+“What Is the Difference between .Erb, .Rhtml, and .Html.erb?” Stack Overflow, 29 May 2010, stackoverflow.com/questions/2936326/what-is-the-difference-between-erb-rhtml-and-html-erb.
+
+“Writing Our Own Class in Ruby: Ruby Study Notes - Best Ruby Guide, Ruby Tutorial.” Rubylearning.com, rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html.
