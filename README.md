@@ -26,6 +26,11 @@ App is in development. Stay tuned for final feature lists!
 
 # Installation Steps
 
+1. Clone or download this repository from GitHub.
+2. cd into your local version of the repository, and run ```bundle install``` to install the required gems.
+3. run the command ```rails server``` to run the bot on a local server.
+4. Go to ```http://localhost:3000``` in your browser to start using the bot.
+
 # Key Issues
 
 # Known Bugs
