@@ -22,7 +22,19 @@ This bot is for anyone who has an internet connection and desires to have a usel
 
 # Functionality
 
-The current version of the product allows users to type in a message to send to the bot, which is then sent to the bot when the "send" button is clicked. This will load the bot's response. The user can then reply to this response with a new message by clicking the "new message" button. The bot currently has 8 pre-programmed responses.
+The current version of the product allows users to type in a message to send to the bot, which is then sent to the bot when the "send" button is clicked. This is shown in the screenshot below.
+
+
+![Message](message.png)
+
+
+This will load the bot's response (shown below). 
+
+
+![Response](response.png)
+
+
+The user can then reply to this response with a new message by clicking the "new message" button. The bot currently has 8 pre-programmed responses.
 
 # Installation Steps
 
